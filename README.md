@@ -4,7 +4,7 @@ Step 1:
 Install the package on your terminal using 
 npm install 
 
-Sep 2:
+Step 2:
 Add a .env file on backend directory that contains:
 1.) MONGO_URI : 
 2.) PORT : 
